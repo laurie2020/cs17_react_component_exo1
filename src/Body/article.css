@@ -1,0 +1,14 @@
+.article {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+h2 {
+    color: #5DFF8C;
+}
+.article-text {
+    width: 400px;
+    text-align: justify;
+    color: white;
+}

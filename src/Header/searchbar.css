@@ -1,0 +1,20 @@
+label {
+    color: white;
+}
+button {
+    background-color: #5DFFE1 ;
+    border: none;
+    color: white;
+    height: 20px;
+    margin-left: 5px;
+}
+
+input,
+button {
+    border-radius: 3px
+}
+
+input {
+    border: none;
+    height: 20px;
+}
